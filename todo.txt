@@ -1,0 +1,14 @@
+
+
+Plan: 
+
+1. Have our form for an author, a title, a comment.
+2. Implement the following with validation.
+3. Mark down the techniques used for an eventual technical page.
+4. Implement a date protocol.
+5. Finish website. Implement Bootstrap JS.
+6. Add Jquery functions to the website.
+7. Make the "blog post"/"comment" style more cohesive.
+7. Add your website link to the footer.
+7. Clean up code.
+8. Package it into github.
